@@ -14,7 +14,7 @@ Cette formation est destinée aux passionnés d'IA générative souhaitant déco
 3. Attention, créer votre compte Mistral ET HuggingFace sera indispensable pour adapter le code.
 
 
-### Formateur
+### Formatrice
 
 **Alison PATOU** 
 
